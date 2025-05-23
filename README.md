@@ -1,4 +1,4 @@
-## Olá! Sou o Ronald Matias, cursando Ciência da computação!
+## Olá! Sou o Ronald Matias, estudante Ciência da computação!
 <p>Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Aqui no meu GitHub, você vai encontrar projetos relacionados a HTML,CSS,JavaScript,SQL e NodeJS.</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronald-SQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
