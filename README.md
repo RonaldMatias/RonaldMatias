@@ -10,19 +10,6 @@
   <img align="center" alt="Ronald-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
-## Linguagens mais usadas
-
-<p>Veja as linguagens que mais aparecem nos meus repositórios no GitHub!</p>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmatias&show_icons=true&theme=dark&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmatias&show_icons=true&theme=dark&hide_title=true"
-    style="width: 80%; max-width: 600px; border-radius: 8px; margin-top: 20px; margin-bottom: 20px;" />
-</picture>
-
   ## Contato
 
 <div style="margin-top: 20px;"> 
