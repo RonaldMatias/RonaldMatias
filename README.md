@@ -1,27 +1,35 @@
 ## Olá! Sou o Ronald Matias, estudante Ciência da computação!
-<p>Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Aqui no meu GitHub, você vai encontrar projetos relacionados a HTML,CSS,JavaScript,SQL e NodeJS.</p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ronald-SQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Ronald-NodeJs"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Ronald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ronald-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ronald-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<p>Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Aqui no meu GitHub, você vai encontrar projetos relacionados a HTML, CSS, JavaScript, SQL e NodeJS.</p>
+
+<div style="display: inline-block; margin-bottom: 20px;">
+  <img align="center" alt="Ronald-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="margin-right: 15px;" />
+  <img align="center" alt="Ronald-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="margin-right: 15px;" />
+  <img align="center" alt="Ronald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 15px;" />
+  <img align="center" alt="Ronald-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 15px;" />
+  <img align="center" alt="Ronald-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
-    
-  ##
 
-<div> 
-    <a href = "mailto:ronaldmatias05@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
-</div> 
+## Linguagens mais usadas
 
-  ##
-  <picture>
+<p>Veja as linguagens que mais aparecem nos meus repositórios no GitHub!</p>
+
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmatias&show_icons=true&theme=dark&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmatias&show_icons=true&theme=dark&hide_title=true"
+    style="width: 80%; max-width: 600px; border-radius: 8px; margin-top: 20px; margin-bottom: 20px;" />
 </picture>
-  
+
+  ## Contato
+
+<div style="margin-top: 20px;"> 
+  <a href = "mailto:ronaldmatias05@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+
  
