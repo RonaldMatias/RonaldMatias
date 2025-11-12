@@ -8,7 +8,7 @@
   <img align="center" alt="Ronald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 15px;" />
   <img align="center" alt="Ronald-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 15px;" />
   <img align="center" alt="Ronald-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 15px;" />
- <img align="center" alt="Ronald-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg?color=06B6D4" style="margin-right: 15px;" />
+ <img align="center" alt="Ronald-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg?color=06B6D4](https://icons8.com.br/icon/4PiNHtUJVbLs/tailwind-css" style="margin-right: 15px;" />
 </div>
 
 ## Contato
